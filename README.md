@@ -3,6 +3,6 @@
 
 # Guia de instalación
 
-*Crea un entorno virtual usando la libreria venv*
-**Instalar la libreria Pygame**
+*Crea un entorno virtual usando la libreria venv*.
+*Instalar la libreria Pygame*.
 *Y difrutar del juego*
