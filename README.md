@@ -1,8 +1,48 @@
-# laberinto
- *Un juego simple en python de escapada de un laberinto*
+# 🌀 Laberinto Escape  
+*Un juego simple en Python para escapar de un laberinto*  
+**Desarrollado por [froshy], suport the proyect in [Kofi](ko-fi.com/froshgames)**  
 
-# Guia de instalación
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pygame](https://img.shields.io/badge/Pygame-2.1.3-success)
 
-*Crea un entorno virtual usando la libreria venv*.
-*Instalar la libreria Pygame*.
-*Y difrutar del juego*
+## 🚀 Características
+- Laberinto generado proceduralmente
+- Sistema de colisiones básico
+- Controles simples con teclado
+- Efectos de sonido y música
+- Interfaz visual minimalista
+
+## 📥 Instalación
+
+### Requisitos previos
+- Python 3.x
+- Pip (Gestor de paquetes de Python)
+
+### Pasos:
+1. **Clonar el repositorio**  
+   ```bash
+   git clone https://github.com/froshy/laberinto.git
+   cd laberinto
+
+    Crear entorno virtual (Recomendado)
+    bash
+python -m venv venv
+
+    Windows:
+    bash
+
+.\venv\Scripts\activate
+
+Linux/Mac:
+bash
+
+    source venv/bin/activate
+
+Instalar dependencias
+bash
+
+pip install pygame
+
+Ejecutar el juego
+bash
+
