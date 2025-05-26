@@ -1,7 +1,8 @@
 # 🌀 Laberinto Escape  
 *Un juego simple en Python para escapar de un laberinto*  
-**Desarrollado por froshy, suport the proyect in [Kofi](ko-fi.com/froshgames)**  
+**Desarrollado por froshy**
 
+[![Soporta el proyecto](https://img.shields.io/badge/☕_Apoya_el_desarrollo-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/froshgames)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pygame](https://img.shields.io/badge/Pygame-2.1.3-success)
 
@@ -45,4 +46,9 @@ pip install pygame
 
 Ejecutar el juego
 bash
+## ☕ Soporte al desarrollo  
+Si disfrutas de este proyecto y quieres apoyar su desarrollo:  
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/froshgames)  
+
+*¡Cada café ayuda a crear más proyectos interesantes!* 🎮☕✨
